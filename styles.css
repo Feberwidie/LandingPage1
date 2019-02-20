@@ -1,0 +1,28 @@
+.jumbotron {
+    background-color: whitesmoke!important;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+.avatar{
+    border-radius: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 150px;
+    height: 150px;
+}
+#about{
+    background-color: coral;
+}
+
+.mrt{
+    margin-top: -30px;
+}
+
+#contact{
+    background-color: coral;
+}
+
