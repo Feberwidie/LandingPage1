@@ -1,7 +1,3 @@
-.jumbotron {
-    background-color: whitesmoke!important;
-}
-
 img{
     width: 200px;
     height: 200px;
@@ -11,11 +7,12 @@ img{
     display: block;
     margin-right: auto;
     margin-left: auto;
-    width: 150px;
-    height: 150px;
+    width: 300px;
+    height: 300px;
 }
+
 #about{
-    background-color: coral;
+    background-color: turquoise;
 }
 
 .mrt{
@@ -23,6 +20,6 @@ img{
 }
 
 #contact{
-    background-color: coral;
+    background-color:turquoise;
 }
 
